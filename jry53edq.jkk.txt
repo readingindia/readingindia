@@ -1,0 +1,56 @@
+﻿Initial test files added
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   LICENSE.txt
+#	new file:   README.txt
+#	new file:   css/PIE.htc
+#	new file:   css/backgroundsize.min.htc
+#	new file:   css/font/FontAwesome.otf
+#	new file:   css/font/fontawesome-webfont.eot
+#	new file:   css/font/fontawesome-webfont.svg
+#	new file:   css/font/fontawesome-webfont.ttf
+#	new file:   css/font/fontawesome-webfont.woff
+#	new file:   css/ie8.css
+#	new file:   css/images/arrow.svg
+#	new file:   css/images/toggle.svg
+#	new file:   css/skel-noscript.css
+#	new file:   css/style-mobile.css
+#	new file:   css/style-narrow.css
+#	new file:   css/style-narrower.css
+#	new file:   css/style-normal.css
+#	new file:   css/style-noscript.css
+#	new file:   css/style-wide.css
+#	new file:   css/style.css
+#	new file:   images/header.jpg
+#	new file:   images/pic01.jpg
+#	new file:   images/pic02.jpg
+#	new file:   images/pic03.jpg
+#	new file:   images/pic04.jpg
+#	new file:   images/pic05.jpg
+#	new file:   images/pic06.jpg
+#	new file:   images/pic07.jpg
+#	new file:   images/pic08.jpg
+#	new file:   images/pic09.jpg
+#	new file:   images/pic10.jpg
+#	new file:   images/pic11.jpg
+#	new file:   images/pic12.jpg
+#	new file:   images/pic13.jpg
+#	new file:   images/pic14.jpg
+#	new file:   images/pic15.jpg
+#	new file:   index.html
+#	new file:   js/html5shiv.js
+#	new file:   js/init.js
+#	new file:   js/jquery.dropotron.min.js
+#	new file:   js/jquery.min.js
+#	new file:   js/skel-panels.min.js
+#	new file:   js/skel.min.js
+#	new file:   left-sidebar.html
+#	new file:   no-sidebar.html
+#	new file:   right-sidebar.html
+#
+
